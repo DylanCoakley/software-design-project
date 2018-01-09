@@ -1,3 +1,3 @@
-# software-design-project
+# CSCI 485 Project
 
-** Description **
+Team #1 Software Design Project Repository 
